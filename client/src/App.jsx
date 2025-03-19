@@ -19,7 +19,7 @@ setMessage(error.message)
 return (
 <>
 
-<h1 className='text-blue-500'>Welcome to Floral Store</h1>
+<h1 className='text-green-800 bg-blue-100 rounded-xl'>Welcome to Floral Store</h1>
 <RegisterForm/>
 </>
 )
